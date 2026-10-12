@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TERRASPLAT: Observability-aware single-pass drone video to georeferenced 3D models (SIH 2026 PS 26158)",
   "private": true,
+  "homepage": "https://terrasplat.cappace.me",
   "license": "MIT",
   "author": "JoyCodz",
   "repository": {

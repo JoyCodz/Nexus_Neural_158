@@ -3,11 +3,14 @@
 > **Observability-Aware Single-Pass Drone Video → Georeferenced 3D Models**  
 > *Target: Smart India Hackathon 2026 · Problem Statement 26158 (NTRO)*
 
+[![Live Demo](https://img.shields.io/badge/Demo-terrasplat.cappace.me-2ea44f.svg?logo=vercel&logoColor=white)](https://terrasplat.cappace.me)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS%20v4-38bdf8.svg)](https://tailwindcss.com/)
+
+🌐 **Live Demo:** [https://terrasplat.cappace.me](https://terrasplat.cappace.me)
 
 ---
 
@@ -81,6 +84,8 @@ Standard photogrammetric pipelines fail or yield distorted geometry on single-pa
 ---
 
 ## ⚡ Quickstart
+
+> 💡 **Try it Live Without Setup:** A live version of the platform is hosted at **[https://terrasplat.cappace.me](https://terrasplat.cappace.me)**.
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v20 or higher
